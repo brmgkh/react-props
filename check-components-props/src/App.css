@@ -1,0 +1,54 @@
+.EspaceProfil{
+    display: flex;
+    flex-direction: column;
+    border: solid gray;
+    border-radius: 50px;
+    height: 1000px;
+    justify-content: space-around;
+    padding: 50px auto;
+    margin: 80px;
+    background-color: #ffefd5;
+}
+
+
+.brahim{
+    display: flex;
+    flex-direction: column;
+    height: 300px;
+    justify-content: space-evenly;
+    margin-left:500px;
+    padding-top: 10px;
+
+}
+.skander{
+    display: flex;
+    flex-direction: column;
+    height: 300px;
+    justify-content: space-evenly;
+    margin-left:500px;
+    margin-top: 5px;
+}
+.yassine{
+    display: flex;
+    flex-direction: column;
+    height: 300px;
+    justify-content: space-evenly;
+    margin-left:500px;
+    margin-top: 5px;
+    
+}
+hr{
+    width: 50%;
+    margin-left: 150px;
+}
+img{
+    width: 150px;
+}
+.Retirer{
+    width: 1000px;
+    display: flex;
+    justify-content: space-evenly;
+    margin-left: 170px;
+    margin-top: 30px;
+    
+}
